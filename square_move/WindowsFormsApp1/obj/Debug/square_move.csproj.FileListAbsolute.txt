@@ -1,0 +1,10 @@
+C:\MY_DOC_HP\мгту\весна2019\rogozin\square_move\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\MY_DOC_HP\мгту\весна2019\rogozin\square_move\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\MY_DOC_HP\мгту\весна2019\rogozin\square_move\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\MY_DOC_HP\мгту\весна2019\rogozin\square_move\WindowsFormsApp1\obj\Debug\square_move.csprojAssemblyReference.cache
+C:\MY_DOC_HP\мгту\весна2019\rogozin\square_move\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\MY_DOC_HP\мгту\весна2019\rogozin\square_move\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\MY_DOC_HP\мгту\весна2019\rogozin\square_move\WindowsFormsApp1\obj\Debug\square_move.csproj.GenerateResource.cache
+C:\MY_DOC_HP\мгту\весна2019\rogozin\square_move\WindowsFormsApp1\obj\Debug\square_move.csproj.CoreCompileInputs.cache
+C:\MY_DOC_HP\мгту\весна2019\rogozin\square_move\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\MY_DOC_HP\мгту\весна2019\rogozin\square_move\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
