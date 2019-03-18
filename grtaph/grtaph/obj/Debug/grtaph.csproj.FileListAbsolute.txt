@@ -1,0 +1,20 @@
+I:\MY_DOK\МГТУ им. Н.Э. Баумана\обуч\6сем\Рогозин\graph\grtaph\grtaph\bin\Debug\grtaph.exe.config
+I:\MY_DOK\МГТУ им. Н.Э. Баумана\обуч\6сем\Рогозин\graph\grtaph\grtaph\bin\Debug\grtaph.exe
+I:\MY_DOK\МГТУ им. Н.Э. Баумана\обуч\6сем\Рогозин\graph\grtaph\grtaph\bin\Debug\grtaph.pdb
+I:\MY_DOK\МГТУ им. Н.Э. Баумана\обуч\6сем\Рогозин\graph\grtaph\grtaph\obj\Debug\grtaph.csprojAssemblyReference.cache
+I:\MY_DOK\МГТУ им. Н.Э. Баумана\обуч\6сем\Рогозин\graph\grtaph\grtaph\obj\Debug\grtaph.csproj.GenerateResource.cache
+I:\MY_DOK\МГТУ им. Н.Э. Баумана\обуч\6сем\Рогозин\graph\grtaph\grtaph\obj\Debug\grtaph.csproj.CoreCompileInputs.cache
+I:\MY_DOK\МГТУ им. Н.Э. Баумана\обуч\6сем\Рогозин\graph\grtaph\grtaph\obj\Debug\grtaph.exe
+I:\MY_DOK\МГТУ им. Н.Э. Баумана\обуч\6сем\Рогозин\graph\grtaph\grtaph\obj\Debug\grtaph.pdb
+I:\MY_DOK\МГТУ им. Н.Э. Баумана\обуч\6сем\Рогозин\graph\grtaph\grtaph\obj\Debug\graph.Form1.resources
+I:\MY_DOK\МГТУ им. Н.Э. Баумана\обуч\6сем\Рогозин\graph\grtaph\grtaph\obj\Debug\graph.Properties.Resources.resources
+C:\MY_DOC_HP\мгту\весна2019\rogozin\grtaph\grtaph\obj\Debug\grtaph.csprojAssemblyReference.cache
+C:\MY_DOC_HP\мгту\весна2019\rogozin\grtaph\grtaph\obj\Debug\graph.Form1.resources
+C:\MY_DOC_HP\мгту\весна2019\rogozin\grtaph\grtaph\obj\Debug\graph.Properties.Resources.resources
+C:\MY_DOC_HP\мгту\весна2019\rogozin\grtaph\grtaph\obj\Debug\grtaph.csproj.GenerateResource.cache
+C:\MY_DOC_HP\мгту\весна2019\rogozin\grtaph\grtaph\obj\Debug\grtaph.csproj.CoreCompileInputs.cache
+C:\MY_DOC_HP\мгту\весна2019\rogozin\grtaph\grtaph\obj\Debug\grtaph.exe
+C:\MY_DOC_HP\мгту\весна2019\rogozin\grtaph\grtaph\obj\Debug\grtaph.pdb
+C:\MY_DOC_HP\мгту\весна2019\rogozin\grtaph\grtaph\bin\Debug\grtaph.exe.config
+C:\MY_DOC_HP\мгту\весна2019\rogozin\grtaph\grtaph\bin\Debug\grtaph.exe
+C:\MY_DOC_HP\мгту\весна2019\rogozin\grtaph\grtaph\bin\Debug\grtaph.pdb
